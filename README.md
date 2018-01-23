@@ -27,7 +27,6 @@ Why you shouldn't probably try to write out of thin air:
 2. I'm _probably_ good at writing code
 3. You need a **programmer**
 4. I'm *really* good at counting
-f. And really consistent
 
 Link to [Google](https://google.com)
 
