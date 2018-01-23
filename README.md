@@ -1,3 +1,5 @@
+### Welcome to pagesrepo test site
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Givup/pagesrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -32,8 +34,6 @@ Syntax highlighted code block
 1. Ensimmäinen
 2. Toinen
 3. Kolmas
-
-**Boldattu teksti kekked**
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
