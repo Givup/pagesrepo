@@ -6,7 +6,9 @@ include a video / gif, and link to the repo if it exists. More info on README.md
 
 [video](https://i.gyazo.com/0ed012885f9647348d64ea892def716a.mp4)
 
-[GitHub repo](https://github.com/Givup/GGJ18)
+![Day/Night](https://i.gyazo.com/0ed012885f9647348d64ea892def716a.gif)
+
+[*GitHub repo*](https://github.com/Givup/GGJ18)
 
 Project to test 3d rendering using OpenGL. Was made during GGJ18, but didn't participate in the event itself, or follow
 the Transmission theme.
