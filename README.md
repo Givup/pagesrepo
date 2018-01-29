@@ -5,6 +5,7 @@ include a video / gif, and link to the repo if it exists. More info on README.md
 ## GGJ18 Jamming
 
 [video](https://i.gyazo.com/0ed012885f9647348d64ea892def716a.mp4)
+
 [GitHub repo](https://github.com/Givup/GGJ18)
 
 Project to test 3d rendering using OpenGL. Was made during GGJ18, but didn't participate in the event itself, or follow
