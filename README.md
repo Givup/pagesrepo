@@ -4,7 +4,7 @@ include a video / gif, and link to the repo if it exists. More info on README.md
 
 ## CPong
 
-![video](https://i.gyazo.com/0420ca5e5fdcac9ed995ba446a48762d.gif)
+![video](https://i.gyazo.com/41ba625acc1d03d93be22634a0d465da.gif)
 
 [*Github repo*](https://github.com/Givup/cpong)
 
